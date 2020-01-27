@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "170385900448",
+    "firebase_url": "https://tasystentpacjenta.firebaseio.com",
+    "project_id": "tasystentpacjenta",
+    "storage_bucket": "tasystentpacjenta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170385900448:android:7647aa17ab40962a",
+        "android_client_info": {
+          "package_name": "com.asystentpacjenta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170385900448-fcnbr6r1rq87elpfiqccn2kk8ia4uno3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACoX40Vwob4OSc37jdRv-GNNwy0XbpwPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170385900448-fcnbr6r1rq87elpfiqccn2kk8ia4uno3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

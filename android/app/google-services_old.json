@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "939545435170",
+    "firebase_url": "https://asystentpacjenta-c6344.firebaseio.com",
+    "project_id": "asystentpacjenta-c6344",
+    "storage_bucket": "asystentpacjenta-c6344.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939545435170:android:7647aa17ab40962a",
+        "android_client_info": {
+          "package_name": "com.asystentpacjenta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939545435170-q4gkto29q8pmh0iapscj30siaemsmcpq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqecPZPjGSdoTZaCJ8k2ZtiTjnzKdtM9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939545435170-q4gkto29q8pmh0iapscj30siaemsmcpq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
